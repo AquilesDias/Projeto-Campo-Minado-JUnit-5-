@@ -33,13 +33,9 @@ public class Campo {
 		if(deltaGeral == 1 && !diagonal) {
 			vizinhos.add(vizinho);
 			return true;		
-		} else if(deltaGeral == 2 && diagonal) {
+		}else if(deltaGeral == 2 && diagonal) {
 				vizinhos.add(vizinho);
-				return true;
-		}
-		
-		else {
-			return false;
+				
 		}
 		
 	}
