@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="Teste" project="Campo-Minado" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="br.com.cod3r.cm.Teste" time="0.042" displayname="Teste" uniqueid="[engine:junit-jupiter]/[class:br.com.cod3r.cm.Teste]">
-    <testcase name="testeNum" classname="br.com.cod3r.cm.Teste" time="0.042" displayname="testeNum()" uniqueid="[engine:junit-jupiter]/[class:br.com.cod3r.cm.Teste]/[method:testeNum()]"/>
-  </testsuite>
-</testrun>

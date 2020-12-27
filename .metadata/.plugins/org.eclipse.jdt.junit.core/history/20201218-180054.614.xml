@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="CampoTeste" project="Campo-Minado" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="br.com.cod3r.cm.modelo.CampoTeste" time="0.04" displayname="CampoTeste" uniqueid="[engine:junit-jupiter]/[class:br.com.cod3r.cm.modelo.CampoTeste]">
-    <testcase name="testeVizinhoRealDistancia1" classname="br.com.cod3r.cm.modelo.CampoTeste" time="0.04" displayname="testeVizinhoRealDistancia1()" uniqueid="[engine:junit-jupiter]/[class:br.com.cod3r.cm.modelo.CampoTeste]/[method:testeVizinhoRealDistancia1()]"/>
-  </testsuite>
-</testrun>
