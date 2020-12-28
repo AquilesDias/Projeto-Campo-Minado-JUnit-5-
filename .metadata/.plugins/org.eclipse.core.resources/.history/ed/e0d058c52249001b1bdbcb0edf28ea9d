@@ -85,7 +85,4 @@ public class Campo {
     	return aberto;
     }
 	
-    public boolean isFechado() {
-    	return !isAberto();
-    }
 }

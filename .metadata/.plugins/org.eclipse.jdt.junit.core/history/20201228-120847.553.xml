@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CampoTeste" project="Campo-Minado" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="br.com.cod3r.cm.modelo.CampoTeste" time="0.15" displayname="CampoTeste" uniqueid="[engine:junit-jupiter]/[class:br.com.cod3r.cm.modelo.CampoTeste]">
+    <testcase name="testeValorPadraoAtributoMarcacao" classname="br.com.cod3r.cm.modelo.CampoTeste" time="0.073" displayname="testeValorPadraoAtributoMarcacao()" uniqueid="[engine:junit-jupiter]/[class:br.com.cod3r.cm.modelo.CampoTeste]/[method:testeValorPadraoAtributoMarcacao()]"/>
+    <testcase name="testeAlternarMarcacao" classname="br.com.cod3r.cm.modelo.CampoTeste" time="0.03" displayname="testeAlternarMarcacao()" uniqueid="[engine:junit-jupiter]/[class:br.com.cod3r.cm.modelo.CampoTeste]/[method:testeAlternarMarcacao()]"/>
+    <testcase name="testeVizinhoRealDistancia1" classname="br.com.cod3r.cm.modelo.CampoTeste" time="0.002" displayname="testeVizinhoRealDistancia1()" uniqueid="[engine:junit-jupiter]/[class:br.com.cod3r.cm.modelo.CampoTeste]/[method:testeVizinhoRealDistancia1()]"/>
+    <testcase name="testeAltenarMarcacaoDuasChamadas" classname="br.com.cod3r.cm.modelo.CampoTeste" time="0.044" displayname="testeAltenarMarcacaoDuasChamadas()" uniqueid="[engine:junit-jupiter]/[class:br.com.cod3r.cm.modelo.CampoTeste]/[method:testeAltenarMarcacaoDuasChamadas()]"/>
+  </testsuite>
+</testrun>

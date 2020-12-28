@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="CampoTeste.testeAbrirNaoMinadoMarcado" project="Campo-Minado" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="br.com.cod3r.cm.modelo.CampoTeste" time="0.048" displayname="CampoTeste" uniqueid="[engine:junit-jupiter]/[class:br.com.cod3r.cm.modelo.CampoTeste]">
+    <testcase name="testeAbrirNaoMinadoMarcado" classname="br.com.cod3r.cm.modelo.CampoTeste" time="0.048" displayname="testeAbrirNaoMinadoMarcado()" uniqueid="[engine:junit-jupiter]/[class:br.com.cod3r.cm.modelo.CampoTeste]/[method:testeAbrirNaoMinadoMarcado()]"/>
+  </testsuite>
+</testrun>
